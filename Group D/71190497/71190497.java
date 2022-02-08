@@ -10,5 +10,6 @@ public class 71190497 {
             angka++;       
         }
        System.out.println("Hasil Penjumlahan= " + jum);
+       System.out.println("TERIMA KASIH - 71190497 RIZKITA TESHALONICA");
 	}
 }
