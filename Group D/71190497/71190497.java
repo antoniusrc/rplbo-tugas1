@@ -1,4 +1,4 @@
-public class R71190497 {
+public class 71190497 {
 
 	public static void main(String[] args) {
 		int jum = 0;
@@ -9,6 +9,7 @@ public class R71190497 {
             jum += angka;
             angka++;       
         }
-       System.out.println(jum);
+       System.out.println("Hasil Penjumlahan= " + jum);
+       System.out.println("TERIMA KASIH - 71190497 RIZKITA TESHALONICA");
 	}
 }
