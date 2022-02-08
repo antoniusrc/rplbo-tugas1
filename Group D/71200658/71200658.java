@@ -9,6 +9,7 @@ public class rpl71200658 {
             nim -= 1;
         }
         System.out.println("Hasilnya adalah :" + n);
+	System.out.println("TERIMA KASIH 7200658 Putra Yehuda Ratu");
 
 	}
 
